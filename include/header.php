@@ -1,5 +1,5 @@
 <header>
-    <h1>Animalerie</h1>
+    <h1>L'animalerie du web</h1>
 
     <ul>
     <?php

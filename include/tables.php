@@ -7,10 +7,23 @@
 
 <?php
     $tablProd = [
+        //produit templat
+        /*
+        [
+            'titre' => '',
+            'cat' => '',
+            'pHt' => '',
+            'tva' => '',
+            'def' => '',
+            'imgsrc' => ''
+        ],
+        */
         //prod 1
         [
             'titre' => 'croquettes pour chien',
             'cat' => 'chien',
+            'pHt' => '',
+            'tva' => '',
             'def' => 'un paquet de croquette pour chien',
             'imgsrc' => 'img/croquettes-sans-cereales-pour-chats-adultes-sterilises-ou-d-interieur.jpg',
         ],
