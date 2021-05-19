@@ -9,5 +9,6 @@
            <?php echo $tempCat; ?>
         </li>
         <?php endforeach; ?>
+        <li></li>
     </ul>
 </header>

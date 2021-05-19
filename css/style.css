@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: rgb(247, 247, 251);
+    background-color: rgb(220, 220, 228);
 }
 
 header h1{
@@ -21,6 +21,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: "Times New Romain";
 }
 
 header ul{
@@ -39,14 +40,27 @@ div{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     flex-wrap: nowrap;
+    width: 150px;
+    border-right: solid;
 }
 
 article{
-    display: flex; 
+    display: flex;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .15);
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
+article h2{
+    font-size: 1em;
+}
+
+
 img{
-    width: 300px;
+    width: 150px;
 }
