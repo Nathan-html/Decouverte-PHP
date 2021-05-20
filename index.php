@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include('include/tables.php') ?>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,6 @@
 </head>
 
 <body>
-    <?php include('include/tables.php') ?>
     <?php include('include/header.php') ?>
     <?php include('include/main.php') ?>
     <?php include('include/footer.php') ?>
